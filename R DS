@@ -1,0 +1,6 @@
+# data structures in R
+vector,array,matrix,factor,dataframe,lists
+vector-linear homogeneous data structure - linear data structure
+one particular data type  LDS
+c-combined operator(to create a vector)
+-----------
